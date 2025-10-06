@@ -48,7 +48,7 @@ NumPy | Pandas | Scikit-learn | Matplotlib | TensorFlow (basics)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vedantu2005&show_icons=true&theme=radical" alt="Vedant's GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedantinamdar&theme=radical" alt="Vedant's GitHub streak" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedantu2005&theme=radical" alt="Vedant's GitHub streak" height="165" />
 </p>
 
 <p align="center">
