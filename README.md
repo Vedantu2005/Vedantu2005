@@ -47,12 +47,12 @@ NumPy | Pandas | Scikit-learn | Matplotlib | TensorFlow (basics)
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vedantinamdar&show_icons=true&theme=radical" alt="Vedant's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vedantu2005&show_icons=true&theme=radical" alt="Vedant's GitHub stats" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedantinamdar&theme=radical" alt="Vedant's GitHub streak" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantinamdar&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedantu2005&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -60,7 +60,7 @@ NumPy | Pandas | Scikit-learn | Matplotlib | TensorFlow (basics)
 ## 🏆 LeetCode & Open Source
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/vedantinamdar?theme=dark&font=Nunito&ext=contest" alt="Vedant's LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/vedantu_77?theme=dark&font=Nunito&ext=contest" alt="Vedant's LeetCode Stats" />
 </p>
 
 - 💻 Contributing to open-source projects on GitHub  
