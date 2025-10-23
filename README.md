@@ -1,8 +1,9 @@
-# 💫 About Me:
+# 👋 Hi, I'm Vedant Inamdar
+
 I am an Artificial Intelligence & Machine Learning student at Rajarambapu Institute of Technology with a strong passion for full-stack web development. I build intelligent systems and scalable web apps using Python, JavaScript, React, Node.js, and MongoDB. I am also the founder of Travolic, a MERN-stack platform for beach camping, and an active open-source contributor passionate about solving real-world problems with code.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vedantu_77) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vedant-inamdar-b257122a9/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vedantu_77) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vedantinamdar8@gmail.com) 
 
 # 💻 Tech Stack:
@@ -12,7 +13,7 @@ I am an Artificial Intelligence & Machine Learning student at Rajarambapu Instit
 ![](https://nirzak-streak-stats.vercel.app/?user=Vedantu2005&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vedantu2005&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Vedantu2005&theme=nord&no-frame=true&no-bg=false&margin-w=4)
 
 ---
