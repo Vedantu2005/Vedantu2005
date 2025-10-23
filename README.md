@@ -1,81 +1,21 @@
-# 👋 Hi, I'm Vedant Inamdar
+# 💫 About Me:
+I am an Artificial Intelligence & Machine Learning student at Rajarambapu Institute of Technology with a strong passion for full-stack web development. I build intelligent systems and scalable web apps using Python, JavaScript, React, Node.js, and MongoDB. I am also the founder of Travolic, a MERN-stack platform for beach camping, and an active open-source contributor passionate about solving real-world problems with code.
 
-🎯 **Artificial Intelligence & Machine Learning Student | Web Developer | Open Source Contributor**  
-🚀 Passionate about building intelligent systems, scalable web apps, and solving real-world problems with code.
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vedantu_77) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vedant-inamdar-b257122a9/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vedantu_77) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vedantinamdar8@gmail.com) 
 
-## 🧠 About Me
-- 🎓 AIML Student at Rajarambapu Institute of Technology  
-- 💻 Completed **Web Development Course (Apna College)**  
-- 🧩 Building projects in **AI**, **Web Dev**, and **Open Source**  
-- 🌍 Founder of **Travolic** — offering beach camping experiences  
-- 💬 Ask me about **Python**, **Machine Learning**, **JavaScript**, **Node.js**, **Firebase**, and **MongoDB**  
-- ⚡ Fun fact: I love combining AI with real-world applications 🌎  
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Vedantu2005&theme=transparent&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Vedantu2005&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vedantu2005&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
----
-
-## 🛠️ Tech Stack
-
-**Languages:**  
-Python | Java | JavaScript | C | HTML | CSS  
-
-**Frameworks & Tools:**  
-React | Node.js | Express.js | Firebase | MongoDB | Git | GitHub | Bootstrap  
-
-**Machine Learning:**  
-NumPy | Pandas | Scikit-learn | Matplotlib | TensorFlow (basics)  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Vedantu2005&theme=nord&no-frame=true&no-bg=false&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Vedantu2005&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 Featured Projects
-
-### 🔥 [EduWatch](https://github.com/vedantinamdar/EduWatch)
-> Real-time student activity monitoring system for lab exams with Firebase and Chrome Extension integration.
-
-### 🏕️ [Travolic](https://travoliccamp.in)
-> A full-stack web platform for beach camping bookings featuring live music, BBQ, and adventure stays.
-
-### 🌲 [Forest Fire Prediction](https://github.com/vedantinamdar/ForestFireAI)
-> AI-based system predicting forest fire risk using real-time weather data and Google Maps visualization.
-
-### 🤖 [Voice Assistant](https://github.com/vedantinamdar/Python-Voice-Assistant)
-> Python-based desktop assistant with speech recognition and automation features.
-
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vedantu2005&show_icons=true&theme=radical" alt="Vedant's GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedantu2005&theme=radical" alt="Vedant's GitHub streak" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedantu2005&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-## 🏆 LeetCode & Open Source
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/vedantu_77?theme=dark&font=Nunito&ext=contest" alt="Vedant's LeetCode Stats" />
-</p>
-
-- 💻 Contributing to open-source projects on GitHub  
-- 🌱 Participating in hackathons and tech communities  
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://github.com/Vedantu2005"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/vedant-inamdar-b257122a9"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/vedantu_77"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-</p>
-
----
-
-⭐ **"Keep learning, keep building, and keep sharing your journey."**
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
